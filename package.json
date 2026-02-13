@@ -1,0 +1,24 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "BACKEND PROJECT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev":"nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbinashRout2003/BACKEND_PROJECT.git"
+  },
+  "author": "ABINASH ROUT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbinashRout2003/BACKEND_PROJECT/issues"
+  },
+  "homepage": "https://github.com/AbinashRout2003/BACKEND_PROJECT#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
